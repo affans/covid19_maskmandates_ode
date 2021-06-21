@@ -1,0 +1,52 @@
+state,statepop,city,citypop,factfindstate,abbr,code2
+Alabama,"4,887,871",Birmingham,"209,880",Alabama,AL,01
+Alaska,"737,438",Anchorage,"291,538",Alaska,AK,02
+Arizona,"7,171,646",Phoenix,"1,660,272",Arizona,AZ,04
+Arkansas,"3,013,825",Little Rock,"197,881",Arkansas,AR,05
+California,"39,557,045",Los Angeles,"3,990,456",California,CA,06
+Colorado,"5,695,564",Denver,"716,492",Colorado,CO,08
+Connecticut,"3,572,665",Bridgeport,"144,900",Connecticut,CT,09
+Delaware,"967,171",Wilmington,"70,635",Delaware,DE,10
+District of Columbia,"702,455",Washington,"702,455",District of Columbia,DC,11
+Florida,"21,299,325",Jacksonville,"903,889",Florida,FL,12
+Georgia,"10,519,475",Atlanta,"498,044",Georgia,GA,13
+Hawaii,"1,420,491",Honolulu1,"347,397",Hawaii,HI,15
+Idaho,"1,754,208",Boise,"228,790",Idaho,ID,16
+Illinois,"12,741,080",Chicago,"2,705,994",Illinois,IL,17
+Indiana,"6,691,878",Indianapolis,"867,125",Indiana,IN,18
+Iowa,"3,156,145",Des Moines,"216,853",Iowa,IA,19
+Kansas,"2,911,505",Wichita,"389,225",Kansas,KS,20
+Kentucky,"4,468,402",Louisville,"620,118",Kentucky,KY,21
+Louisiana,"4,659,978",New Orleans,"391,006",Louisiana,LA,22
+Maine,"1,338,404",Portland,"66,417",Maine,ME,23
+Maryland,"6,042,718",Baltimore,"602,495",Maryland,MD,24
+Massachusetts,"6,902,149",Boston,"694,583",Massachusetts,MA,25
+Michigan,"9,995,915",Detroit,"672,662",Michigan,MI,26
+Minnesota,"5,611,179",Minneapolis,"425,403",Minnesota,MN,27
+Mississippi,"2,986,530",Jackson,"164,422",Mississippi,MS,28
+Missouri,"6,126,452",Kansas City,"491,918",Missouri,MO,29
+Montana,"1,062,305",Billings,"109,550",Montana,MT,30
+Nebraska,"1,929,268",Omaha,"468,262",Nebraska,NE,31
+Nevada,"3,034,392",Las Vegas,"644,644",Nevada,NV,32
+New Hampshire,"1,356,458",Manchester,"112,525",New Hampshire,NH,33
+New Jersey,"8,908,520",Newark,"282,090",New Jersey,NJ,34
+New Mexico,"2,095,428",Albuquerque,"560,218",New Mexico,NM,35
+New York,"19,542,209",New York City,"8,398,748",New York,NY,36
+North Carolina,"10,383,620",Charlotte,"872,498",North Carolina,NC,37
+North Dakota,"760,077",Fargo,"124,844",North Dakota,ND,38
+Ohio,"11,689,442",Columbus,"892,533",Ohio,OH,39
+Oklahoma,"3,943,079",Oklahoma City,"649,021",Oklahoma,OK,40
+Oregon,"4,190,713",Portland,"653,115",Oregon,OR,41
+Pennsylvania,"12,807,060",Philadelphia,"1,584,138",Pennsylvania,PA,42
+Rhode Island,"1,057,315",Providence,"179,335",Rhode Island,RI,44
+South Carolina,"5,084,127",Charleston,"136,208",South Carolina,SC,45
+South Dakota,"882,235",Sioux Falls,"181,883",South Dakota,SD,46
+Tennessee,"6,770,010",Nashville,"669,053",Tennessee,TN,47
+Texas,"28,701,845",Houston,"2,325,502",Texas,TX,48
+Utah,"3,161,105",Salt Lake City,"200,591",Utah,UT,49
+Vermont,"626,299",Burlington,"42,899",Vermont,VT,50
+Virginia,"8,517,685",Virginia Beach,"450,189",Virginia,VA,51
+Washington,"7,535,591",Seattle,"744,955",Washington,WA,53
+West Virginia,"1,805,832",Charleston,"47,215",West Virginia,WV,54
+Wisconsin,"5,813,568",Milwaukee,"592,025",Wisconsin,WI,55
+Wyoming,"577,737",Cheyenne,"63,957",Wyoming,WY,56
